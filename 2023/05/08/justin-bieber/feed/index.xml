@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Info	</title>
+	<atom:link href="http://localhost/Biodata/2023/05/08/justin-bieber/feed/?simply_static_page=409" rel="self" type="application/rss+xml" />
+	<link>https://bionine4.github.io/myWordPress/2023/05/08/justin-bieber/</link>
+	<description>information,music,...</description>
+	<lastBuildDate>Mon, 08 May 2023 07:56:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+</channel>
+</rss>
